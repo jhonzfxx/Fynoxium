@@ -6,7 +6,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/JhonzFx/Fynoxium.git && cd Fynoxium
+    git clone https://github.com/jhonzfxx/Fynoxium.git && cd Fynoxium
     ```
 
 2. **Run the Script:**
@@ -18,7 +18,13 @@
 3. **Enter Input Parameters:**
 
    - **Python Code:** Enter the path to a Python script file.
-   - **Obfuscated Program Name:** Specify the name of the output file for the obfuscated code (default is `obfuscated.py`).
+   - **Obfuscated Program Name:** Specify the name of the output file for the obfuscated code (default is `obfuscated.py`)
+  
+## Full Setup In 1 Command:
+
+```bash
+git clone https://github.com/jhonzfxx/Fynoxium.git && cd Fynoxium && pip3 install -r requirements.txt && python3 fynoxium.py
+```
 
 ## Requirements
 
